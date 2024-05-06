@@ -49,3 +49,13 @@ section > div#formulario {
     padding: 10px;
     
 }
+section > div#formulario > h1 {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+section > div#formulario > p {
+    text-align: center;
+    font-size: 0.9em;
+    margin-bottom: 20px;
+}

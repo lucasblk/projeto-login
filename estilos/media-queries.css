@@ -34,12 +34,12 @@
         height: 450px;
        }
        section > div#foto {
-        float: left;
+        float: right;
         width: 45%;
         height: 100%;
        }
        section > div#formulario {
-        float: right;
+        float: left;
         width: 55%;
         height: 100%;
        } 
