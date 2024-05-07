@@ -8,7 +8,7 @@
 
    section#login {
     width: 80vw;
-    height: 400px;
+    height: 300px;
    }
    section > div#foto {
     float: left;
@@ -31,7 +31,7 @@
     
     section#login {
         width: 900px;
-        height: 450px;
+        height: 320px;
        }
        section > div#foto {
         float: right;
